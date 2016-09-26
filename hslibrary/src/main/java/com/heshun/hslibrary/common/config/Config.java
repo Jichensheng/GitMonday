@@ -18,33 +18,20 @@ public class Config {
 	/**
 	 * 应用名称
 	 */
-	public final String APP_NAME = "EDriveSuzhou";
-
-	public static String WX_APP_ID = "wx23127eb21899529d";
-
-	public static String PUSH_PRE_FIX = "Ddsz_%s";
-
-	// /**
-	// * 测试服务器IP地址
-	// */
-	//
-	// public static String SERVER = "http://172.31.59.71:9000/cpm/api/app/";
-	//
-	// public static String UPLOAD = "http://172.31.59.70:9000/cpm";
-
+	public final String APP_NAME = "*****";
 	/**
 	 * 真实服务器IP地址
 	 */
 
-	public static String SERVER = "http://sz.app.jsclp.cn/cpm/api/app/";
+	public static String SERVER = "***";
 
-	public static String UPLOAD = "http://sz.jsclp.cn/cpm";
+	public static String UPLOAD = "***";
 
 
 	/**
 	 * 应用缓存根目录
 	 */
-	public static final String APP_ROOT_DIR = ".EDriveSuzhou";
+	public static final String APP_ROOT_DIR = ".***";
 
 	/**
 	 * 应用缓存根目录
