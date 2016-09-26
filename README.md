@@ -3,6 +3,17 @@
 > This is a test project
 
 
+```
+gantt
+dateFormat YYYY-MM-DD
+section S1
+T1: 2015-01-01, 6d
+section S2
+T2: 2015-01-11, 9d
+section S3
+T3: 2015-01-02, 15d
+```
+
 License
 --
     Copyright (c) 2016 jichensheng@foxmail.com
